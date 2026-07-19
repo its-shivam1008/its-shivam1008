@@ -1,0 +1,23 @@
+# Python
+scripts/.venv/
+scripts/__pycache__/
+__pycache__/
+*.pyc
+
+# stray local file — remove/gitignore unless you're using it deliberately
+nothing.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# secrets (none needed for this workflow, but standard hygiene)
+.env
+
+scripts/source-photo.jpg
+scripts/prep_photo.py
+scripts/make_ascii_svg.py
+scripts/make_info_card.py
+source-prepped.png
+
+
