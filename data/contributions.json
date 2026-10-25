@@ -1,22 +1,22 @@
 {
   "username": "its-shivam1008",
-  "generated_at": "2026-10-24T11:04:31Z",
+  "generated_at": "2026-10-25T11:34:09Z",
   "range": {
-    "start": "2025-10-19",
-    "end": "2026-10-24"
+    "start": "2025-10-26",
+    "end": "2026-10-25"
   },
-  "total_contributions": 1172,
-  "active_days": 289,
+  "total_contributions": 1167,
+  "active_days": 286,
   "avg_per_active_day": 4.1,
   "current_streak": {
-    "length": 97,
+    "length": 98,
     "start": "2026-07-19",
-    "end": "2026-10-23"
+    "end": "2026-10-24"
   },
   "longest_streak": {
-    "length": 97,
+    "length": 98,
     "start": "2026-07-19",
-    "end": "2026-10-23"
+    "end": "2026-10-24"
   },
   "best_day": {
     "date": "2026-04-09",
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-10",
-      "total": 9
+      "total": 3
     },
     {
       "month": "2025-11",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-10",
-      "total": 42
+      "total": 43
     }
   ],
   "days": [
-    {
-      "date": "2025-10-19",
-      "count": 0
-    },
-    {
-      "date": "2025-10-20",
-      "count": 0
-    },
-    {
-      "date": "2025-10-21",
-      "count": 2
-    },
-    {
-      "date": "2025-10-22",
-      "count": 1
-    },
-    {
-      "date": "2025-10-23",
-      "count": 0
-    },
-    {
-      "date": "2025-10-24",
-      "count": 1
-    },
-    {
-      "date": "2025-10-25",
-      "count": 2
-    },
     {
       "date": "2025-10-26",
       "count": 1
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-10-24",
+      "count": 1
+    },
+    {
+      "date": "2026-10-25",
       "count": 0
     }
   ]
